@@ -4,12 +4,14 @@ Best resources to learn and get the most out of Claude Code.
 
 ---
 
-## Official Resources
+## Official Documentation
 
 | Resource | Link |
 |----------|------|
 | Claude Code Overview | https://docs.anthropic.com/en/docs/claude-code/overview |
-| Claude Code Quickstart | https://docs.anthropic.com/en/docs/claude-code/quickstart |
+| Quickstart Guide | https://docs.anthropic.com/en/docs/claude-code/quickstart |
+| CLI Reference (all flags & commands) | https://docs.anthropic.com/en/docs/claude-code/cli-reference |
+| Settings & Configuration | https://docs.anthropic.com/en/docs/claude-code/settings |
 | Anthropic Console (account & API keys) | https://console.anthropic.com |
 | Claude Code on npm | https://www.npmjs.com/package/@anthropic-ai/claude-code |
 | Anthropic Pricing | https://www.anthropic.com/pricing |
@@ -26,18 +28,19 @@ Best resources to learn and get the most out of Claude Code.
 
 ---
 
-## YouTube — Recommended Searches
+## YouTube — Recommended
 
-Search these on YouTube for the latest tutorials:
+**Official Anthropic channel:** https://www.youtube.com/@anthropic-ai
 
+Search terms for the best tutorials:
 - `Claude Code tutorial 2025` — Getting started guides
-- `Anthropic Claude Code demo` — Official demos from Anthropic
+- `Anthropic Claude Code demo` — Official demos
 - `Claude Code agentic coding` — Advanced workflows
-- `Claude Code vs Cursor` — Comparisons with other AI coding tools
+- `Claude Code vs Cursor` — Comparisons with other AI tools
 
-**Channels to follow:**
-- **Anthropic** (official) — search `@Anthropic` on YouTube
-- **AI Explained**
+**Other channels worth following:**
+- **Fireship** — Short, high-quality tech tutorials
+- **AI Jason** — Practical AI tool walkthroughs
 - **Matt Wolfe** — AI news & tutorials
 
 ---
@@ -46,7 +49,7 @@ Search these on YouTube for the latest tutorials:
 
 | Tool | Link | Notes |
 |------|------|-------|
-| Chrome Remote Desktop | https://remotedesktop.google.com | Free, easiest |
+| Chrome Remote Desktop | https://remotedesktop.google.com | Free, easiest — **recommended** |
 | AnyDesk | https://anydesk.com | Free for personal use |
 | TeamViewer | https://teamviewer.com | Free for personal use |
 
