@@ -26,6 +26,8 @@ This repository contains everything you need to go from zero to productive with 
 | [05](lectures/05-key-features.md) | Key features & slash commands | 15 min |
 | [06](lectures/06-advanced-tips.md) | Tips, tricks & best practices | 10 min |
 | [07](lectures/07-remote-access.md) | Remote access setup (Chrome Remote Desktop) | — |
+| [08](lectures/08-advanced-concepts.md) | Advanced concepts: skills, hooks, agents, commands, flags & models | — |
+| [09](lectures/09-everything-claude-code.md) | everything-claude-code: the ultimate power plugin | — |
 
 ---
 
@@ -36,6 +38,7 @@ This repository contains everything you need to go from zero to productive with 
 - 📦 [Claude Code on npm](https://www.npmjs.com/package/@anthropic-ai/claude-code)
 - 📋 [Cheatsheet](cheatsheet.md)
 - 🌐 [All Resources](resources.md)
+- ⚡ [everything-claude-code plugin](https://github.com/affaan-m/everything-claude-code)
 
 ---
 
