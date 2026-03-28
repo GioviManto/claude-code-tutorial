@@ -19,7 +19,21 @@ Best resources to learn and get the most out of Claude Code.
 
 ---
 
-## GitHub
+## everything-claude-code (Power Plugin)
+
+> Anthropic Hackathon Winner — 50K+ stars — 60+ commands, 31 agents, 128 skills
+
+| Resource | Link |
+|----------|------|
+| GitHub Repository | https://github.com/affaan-m/everything-claude-code |
+| Shorthand Guide | https://github.com/affaan-m/everything-claude-code/blob/main/the-shortform-guide.md |
+| Longhand Guide | https://github.com/affaan-m/everything-claude-code/blob/main/the-longform-guide.md |
+| Security Guide | https://github.com/affaan-m/everything-claude-code/blob/main/the-security-guide.md |
+| CHANGELOG | https://github.com/affaan-m/everything-claude-code/blob/main/CHANGELOG.md |
+
+---
+
+## GitHub — Claude Code Source
 
 | Resource | Link |
 |----------|------|
